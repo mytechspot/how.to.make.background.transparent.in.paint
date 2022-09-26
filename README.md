@@ -1,0 +1,1 @@
+# how.to.make.background.transparent.in.paint
